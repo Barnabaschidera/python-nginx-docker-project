@@ -1,0 +1,5 @@
+nginx/selfsigned.key
+nginx/selfsigned.crt
+nginx/.htpasswd
+_pyache_/
+*.pyc
